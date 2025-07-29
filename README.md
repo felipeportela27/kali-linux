@@ -18,3 +18,4 @@
 ```bash
 sudo su
 
+<img width="1838" height="839" alt="captura de tela" src="https://github.com/user-attachments/assets/0771694d-9b52-4c41-896a-b673e73cde2f" />
