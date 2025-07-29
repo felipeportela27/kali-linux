@@ -17,3 +17,4 @@
 ### 1. Acesse como root:
 ```bash
 sudo su
+<img width="1681" height="1026" alt="image" src="https://github.com/user-attachments/assets/6752984d-79e2-4f1c-b796-9d1266ed3ac8" />
